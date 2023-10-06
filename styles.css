@@ -1,0 +1,12 @@
+/* Write your CSS here */
+#square{
+    height: 100px;
+    width : 100px;
+    background-color : red;
+}
+#circle{
+    height: 100px;
+    width : 100px;
+    background-color : red;
+    border-radius:50%
+}
